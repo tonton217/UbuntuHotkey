@@ -1,2 +1,3 @@
 # UbuntuHotkey
-UbuntuHokeyList
+- Fullscreen: Ctrl + Super + ↑
+- Terminal: Ctrl + Alt + t
